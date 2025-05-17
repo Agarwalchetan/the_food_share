@@ -46,8 +46,7 @@ FoodShare is a modern web application built to reduce food waste and fight hunge
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/foodshare.git
-cd foodshare
+git clone https://github.com/Agarwalchetan/the_food_share.git
 ```
 
 2. Install dependencies:
@@ -169,17 +168,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌐 Live Demo
 
-Visit the live demo: [FoodShare Demo](https://rainbow-rugelach-cec555.netlify.app)
+Visit the live demo: [FoodShare Demo](https://thefoodshare.netlify.app/)
 
 ## 📞 Support
 
-For support, please email support@foodshare.org or join our community chat.
-
-## 🙏 Acknowledgments
-
-- All the contributors who have helped this project grow
-- The open-source community for their invaluable tools
-- Our users who make this platform meaningful
+For support, please contribute to the community.
 
 ## 🔄 Updates
 
